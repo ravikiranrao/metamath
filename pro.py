@@ -22,9 +22,9 @@ b=[]
 d=[]
 c=[]
 e=[]
-# chapter function takes chapter number as input and prinmts the graph of that chapter. If you input 100 as chapter number it will print the graph of the whole book
+# chapter function takes chapter number as input and prints the graph of that chapter. If you input 100 as chapter number it will print the graph of the whole book
 #count is tha page at which the given chapter is starting
-#pag is the page at which chapter ends
+#pa is the page at which chapter ends
 #text store all the text in the chapter
 # else if statement checks pa variable whcich chapter is representing to choose the value of count and page to read and print the graph
 #somo stores all the text which we have to make node in our graph 
